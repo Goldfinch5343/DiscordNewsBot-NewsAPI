@@ -26,7 +26,7 @@ async function postNews() {
     const token = process.env.BOT_TOKEN;
     const channelId = process.env.CHANNEL_ID;
     const newsApiUrl = process.env.NEWS_API_URL;
-    const roleIdToPing = '1117528498848940212'; // Replace 'ROLE_ID' with the actual role ID to ping
+    const roleIdToPing = 'ROLE_ID'; // Replace 'ROLE_ID' with the actual role ID to ping
 
     // Fetch news from the API
     const response = await fetch(newsApiUrl);
