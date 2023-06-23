@@ -37,4 +37,4 @@ To customize the bot's behavior or add additional functionality, you can modify 
 
 
 # License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
